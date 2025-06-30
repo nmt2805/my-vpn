@@ -1,4 +1,4 @@
-app = "my-vpn"
+app = "my-vpn-39qavg"
 
 [[services]]
   internal_port = 443
