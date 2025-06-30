@@ -1,4 +1,4 @@
-app = "myvpn"
+app = "my-vpn"
 
 [[services]]
   internal_port = 443
@@ -6,7 +6,3 @@ app = "myvpn"
 
   [[services.ports]]
     port = 443
-
-  [[services.tcp_checks]]
-    interval = 10000
-    timeout = 2000
