@@ -1,4 +1,4 @@
-app = "my-vpnnmt"
+app = "my-vpn"
 
 [[services]]
   internal_port = 443
